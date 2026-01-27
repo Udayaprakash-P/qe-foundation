@@ -36,8 +36,8 @@ This foundation is used to support domain projects
 such as **FinWealth Pro** or **wealth management/Fintech Applications**.
 
 
+## Architecture Overview
+![Automation Architecture](architecture-overview.png)
 
-\## Architecture Overview
 
-!\[Automation Architecture](architecture-overview.png)
 
