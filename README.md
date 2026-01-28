@@ -39,5 +39,8 @@ such as **FinWealth Pro** or **wealth management/Fintech Applications**.
 ## Architecture Overview
 ![Automation Architecture](architecture-overview.png)
 
+This architecture is applied in real domain examples
+such as `fintech-qe`.
+
 
 
